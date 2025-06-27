@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://bobb-ai-brain.vercel.app
+
+# Sitemaps
+Sitemap: https://bobb-ai-brain.vercel.app/sitemap.xml
